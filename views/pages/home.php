@@ -1,0 +1,1 @@
+Snippets: <?php echo $aantalSnippets; ?>
